@@ -1,4 +1,4 @@
-# React Event System
+# React Event System 
 
 ## Overview
 In this lesson, we'll cover the event system in React.
